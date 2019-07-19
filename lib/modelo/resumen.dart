@@ -1,0 +1,4 @@
+class Resumen {
+  int cantidad;
+  
+}
